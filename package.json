@@ -1,0 +1,22 @@
+{
+	"name": "fl0-c0d3",
+	"displayName": "fl0-c0d3",
+	"publisher": "fl0",
+	"description": "Based on Dark+ and Nord Theme, with some inspiration by Material Theme. Otherwise relying heavily on a sickly green-yellowish color.",
+	"version": "0.2.1",
+	"engines": {
+		"vscode": "^1.53.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "fl0-c0d3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fl0-c0d3-color-theme.json"
+			}
+		]
+	}
+}
